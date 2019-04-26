@@ -1,0 +1,8 @@
+{
+    "sketch": "piezo_sensor_lib.ino",
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560",
+    "programmer": "Arduino as ISP",
+    "port": "/dev/cu.usbmodem14401",
+    "output": "build"
+}

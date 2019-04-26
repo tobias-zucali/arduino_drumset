@@ -1,0 +1,1 @@
+Thanks to Ivan Seidel, I included his great [LinkedList library](https://github.com/ivanseidel/LinkedList) in this project.
